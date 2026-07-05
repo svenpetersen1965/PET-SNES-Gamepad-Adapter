@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"2X03WV";"2X03WV";"J3";"";"";
+"4";"";"BOHR3,5";"BOHR3,5";"DRL1, DRL2, DRL3, DRL4";"";"";
+"1";"100n";"CAP01";"C-2,5";"C1";"";"";
+"1";"10k";"RES04";"R-10";"R5";"";"";
+"1";"10u/16V";"C05,0/2,0";"C5,0/2,0";"C4";"";"";
+"1";"27k";"RES04";"R-10";"R4";"";"";
+"3";"330p";"CAP01";"C-2,5";"C2, C3, C5";"";"";
+"1";"5x4k7";"RN05";"RN-6";"RN1";"";"";
+"1";"FCR681465P";"FCR681465P";"FCR681465P";"J2";"";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$2";"";"";
+"1";"PET-USERPORT";"PET-USERPORT";"USERPORT";"J1";"";"";
+"1";"RCJ-022";"RCJ-02X";"RCJ-02X";"J4";"";"";
+"1";"RCJ-023";"RCJ-02X";"RCJ-02X";"J5";"";"";
+"1";"SNES-GAMEPAD-CONN-vert";"GAMEPAD-CONN_SNESCONN";"SNES_GAMEPAD_VERT";"J6";"";"";

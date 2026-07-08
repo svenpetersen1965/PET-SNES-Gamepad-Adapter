@@ -5,7 +5,7 @@ This adapter is capable of playing PETSCII robots and other SNES Gamepad compati
 
 There is a Rev. 1, which can be switched to use the +5V of the C64 User Port, so no diagnostic cassette dongle or external PSU is required for powering the gamepad. 
 
-<b>WARNING: Setting the power selection switch to C64 and connect the device to a PET might damage the computer. </b> It is recommended to leave the switch not populated in case you are planning to coonect the device to a PET. If you have a PET, check the setting each time, before you connect ther device to the PET. 
+<b>$${\color{red}WARNING: Setting the power selection switch to C64 and connect the device to a PET might damage the computer.}$$ </b> It is recommended to leave the switch not populated in case you are planning to coonect the device to a PET. If you have a PET, check the setting each time, before you connect ther device to the PET. 
 
 Recommended screws:<br>
 Four each of 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).

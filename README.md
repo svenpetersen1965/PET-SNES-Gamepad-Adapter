@@ -13,3 +13,5 @@ Recommended screws:<br>
 Four each of 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).
 
 <img src="https://github.com/svenpetersen1965/PET-SNES-Gamepad-Adapter/blob/main/Rev.%200/pictures/0707_-_SNES_Gamepad_Adapter_v0.JPG" width="300" alt="PET SNES Gamepad Adapter Rev.0">
+
+The BOM value of Rev. 1 without the cassette dongle, a case and any shipping fees or tariffs are 14,95€ (2026-07-21).
